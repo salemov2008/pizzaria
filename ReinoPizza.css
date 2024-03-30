@@ -1,0 +1,73 @@
+h1 {
+  color: rgb(255, 255, 255);
+}
+.subtitulo {
+  color: rgb(255, 221, 0);
+}
+
+td {
+  background-color: rgba(0, 0, 0, 0.511);
+
+  border: 0px rgb(82, 3, 3) solid;
+  padding: 2px;
+}
+
+p {
+  color: white;
+  text-align: center;
+}
+
+.ordem {
+  text-align: left;
+}
+
+th {
+  color: rgb(255, 204, 0);
+}
+
+caption {
+  color: white;
+}
+
+img {
+  width: 190px;
+  margin: 10px;
+}
+.topo {
+  width: 200px;
+  border: 0px;
+}
+
+img:hover {
+  object-position: 0px -25px;
+  background-color: rgb(255, 191, 0);
+}
+
+.topo:hover {
+  object-position: 0px 0px;
+}
+
+ol {
+  width: fit-content;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: aliceblue;
+  list-style-type: square;
+}
+
+li {
+  background-color: rgb(105, 17, 17);
+  color: yellow;
+}
+
+body {
+  background-color: brown;
+}
+body {
+  background-image: url(https://pbs.twimg.com/media/EVkUHCfWsAEiqXy?format=jpg&name=large);
+}
+body {
+  background-repeat: no-repeat;
+}
+body {
+  background-attachment: fixed;
+}
